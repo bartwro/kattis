@@ -1,0 +1,7 @@
+C:\Users\aleja\source\repos\Bus-problem\Bus-problem\obj\Debug\Bus-problem.csprojResolveAssemblyReference.cache
+C:\Users\aleja\source\repos\Bus-problem\Bus-problem\obj\Debug\Bus-problem.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\Bus-problem\Bus-problem\bin\Debug\Bus-problem.exe.config
+C:\Users\aleja\source\repos\Bus-problem\Bus-problem\bin\Debug\Bus-problem.exe
+C:\Users\aleja\source\repos\Bus-problem\Bus-problem\bin\Debug\Bus-problem.pdb
+C:\Users\aleja\source\repos\Bus-problem\Bus-problem\obj\Debug\Bus-problem.exe
+C:\Users\aleja\source\repos\Bus-problem\Bus-problem\obj\Debug\Bus-problem.pdb
